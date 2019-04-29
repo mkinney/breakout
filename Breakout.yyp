@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "04992bdd-bc6d-4374-8ba1-a8ee68adf8be",
+            "Value": {
+                "id": "133c4813-c079-48f2-87f6-de9722efbabe",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_control\/obj_control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0603ce93-e54d-4629-a17b-52b1ba5dad41",
             "Value": {
                 "id": "2c1697be-a17e-4b79-80eb-f627164ace07",
@@ -74,6 +93,25 @@
                 ],
                 "resourcePath": "views\/08402a05-1731-4776-8717-23b8e0baaf36.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0ea60993-74fd-468a-85a0-9b7d2cddfc08",
+            "Value": {
+                "id": "7618fd21-0fe8-41b3-8805-15a3e0f93b50",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_lives\/spr_lives.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -264,6 +302,25 @@
                 ],
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "77c72d40-59f0-4623-a2da-f2420bb59c68",
+            "Value": {
+                "id": "7347da06-556f-496e-9a6d-bd2d267e32c5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fnt_score\/fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
