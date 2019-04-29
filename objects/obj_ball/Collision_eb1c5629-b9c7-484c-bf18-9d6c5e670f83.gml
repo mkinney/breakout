@@ -1,0 +1,1 @@
+direction = 180 - point_direction(other.x, other.y, x, y);
