@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "5fd36236-2fcb-4af3-b3f2-f214c039ceeb",
+            "Value": {
+                "id": "60f807a6-cc95-499a-8858-8607d6e4013f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_click\/snd_click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "661ad475-1acc-4b3d-ae64-9506781b74ce",
             "Value": {
                 "id": "796d8250-d348-40cd-b3bb-882df1fa4918",
@@ -263,6 +282,44 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_bat\/obj_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "67d9f18b-8b0f-4a85-95fd-ada100119879",
+            "Value": {
+                "id": "71496720-818b-49ed-89f5-a00696c2945d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_explode\/snd_explode.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6d99583c-a38c-4732-a5d7-33703d69a581",
+            "Value": {
+                "id": "4b5e919c-c9af-4d31-9a01-da0c0f6d95ec",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_powers\/obj_powers.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -302,6 +359,25 @@
                 ],
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "77149321-779c-43ea-aa49-56b95f199f99",
+            "Value": {
+                "id": "5ff3591b-90ce-4f24-9dfe-dbd8fc11d933",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_powerup\/snd_powerup.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -400,6 +476,25 @@
             }
         },
         {
+            "Key": "91fa3fbd-0bf3-4d7a-94db-7d832ee60feb",
+            "Value": {
+                "id": "058bc886-fa6f-4b6b-81a1-bb0524f64905",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_powers\/spr_powers.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "49b00444-15d0-41bb-b1d1-b79d94ebc78a",
@@ -416,6 +511,25 @@
                 ],
                 "resourcePath": "options\/amazonfire\/options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a23a67b7-15c1-4b71-a197-bea7fdd32aed",
+            "Value": {
+                "id": "bf9bcc56-942f-426f-b6ce-6ccf4c2401a9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_bounce\/snd_bounce.yy",
+                "resourceType": "GMSound"
             }
         },
         {

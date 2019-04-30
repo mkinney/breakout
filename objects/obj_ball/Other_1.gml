@@ -1,13 +1,16 @@
 if (bbox_left < 0) {
 	hspeed = -hspeed;
+	audio_play_sound(snd_bounce, 100, false);
 }
 
 if (bbox_right > room_width) {
 	hspeed = -hspeed;
+	audio_play_sound(snd_bounce, 100, false);
 }
 
 if (bbox_top < 0) {
 	vspeed = -vspeed;
+	audio_play_sound(snd_bounce, 100, false);
 }
 
 if (bbox_bottom > room_height) {

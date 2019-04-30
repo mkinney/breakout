@@ -7,6 +7,6 @@ if (obj_control.game_over) {
 	}
 }
 
-if (obj_brick.instance_count < 1) {
+if (instance_number(obj_brick) < 1) {
 	room_restart();
 }
